@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+header{
+    background-color: skyblue;
+    height: 145px;
+    padding-top: 10px;
+}
+section{
+    margin-top: 12px;
+    width: 100%;
+}
+.div1{
+    height: 400px;
+    width: 25%;
+    float: left;
+    padding-top: 10px;
+    background-color: green;
+}
+.div3{
+    float: right;
+    height: 300px;
+    width: 74%;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(210, 210, 33);
+}
+.div4{
+    float: right;
+    width: 74%;
+    height: 80px;
+    padding-top: 10px;
+    margin-bottom: 12px;
+    background-color: rgb(136, 133, 133);
+}
+footer{
+    clear: both;
+    background-color: rgb(224, 178, 28);
+    padding-top: 10px;
+    height: 140px;
+}

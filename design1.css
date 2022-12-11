@@ -1,0 +1,24 @@
+.div1{
+    background-color: rgb(242, 71, 162);
+    height: 150px;
+    margin-bottom: 16px;
+}
+.div2{
+    background-color: rgb(235, 69, 125);
+    height: 400px;
+    width: 68%;
+    float: left;
+}
+.div3{
+    background-color: rgb(161, 20, 67);
+    height: 400px;
+    width: 31%;
+    float: right;
+}
+.div4{
+    background-color: rgb(73, 42, 55);
+    margin-top: 16px;
+    height: 150px;
+    width: 100%;
+    float: left;
+}

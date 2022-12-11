@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(226, 33, 33);
+    font-family: Arial;
+    color: white;
+}
+.div11, .div22{
+    width: 50%;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.div22{
+    text-align: center; 
+    float: right;
+}
+.div11{
+    float: left;
+}
+.body{
+    margin-left: auto;
+    font-size: 20px;
+    width: 90%;
+}
+.head{
+    margin-left: auto;
+    font-size: 50px;
+    width: 90%;
+}
+.div2{
+    clear: both;
+    display: inline-flex;
+}
+.p1, .p2, .p3{
+    background-color: rgb(120, 16, 16);
+    width: 33%;
+}
+.p1, .p2{
+    margin-right: 10px;
+}
+
+.div2 p{
+    color: yellow;
+    margin-top: 70px;
+    text-align: justify;
+    font-size: 17px;
+}
+.p11{
+    padding: 30px;
+}
